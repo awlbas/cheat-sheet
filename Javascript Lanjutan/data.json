@@ -1,0 +1,20 @@
+[
+    {
+        "nama": "aldi",
+        "umur": 33,
+        "email": "aldi@mail.com",
+        "nilai": 80
+    },
+    {
+        "nama": "abas",
+        "umur": 33,
+        "email": "aldi@mail.com",
+        "nilai": 80
+    },
+    {
+        "nama": "awladi",
+        "umur": 33,
+        "email": "aldi@mail.com",
+        "nilai": 80
+    }
+]
